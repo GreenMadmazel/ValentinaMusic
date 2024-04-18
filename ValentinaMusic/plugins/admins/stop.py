@@ -2,7 +2,7 @@ from pyrogram import filters
 from pyrogram.types import Message
 
 from ValentinaMusic import app
-from ValentinaMusic.core.call import Anony
+from ValentinaMusic.core.call import Valentina
 from ValentinaMusic.utils.database import set_loop
 from ValentinaMusic.utils.decorators import AdminRightsCheck
 from ValentinaMusic.utils.inline import close_markup
